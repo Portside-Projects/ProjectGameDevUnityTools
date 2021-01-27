@@ -1,6 +1,6 @@
 {
   "name": "com.portsideprojects.projectgamedev.unity.utility",
-  "version": "1.0",
+  "version": "1.0.0",
   "displayName": "Project Game Dev Unity Tools",
   "description": "General Tools that may help with various workflows in Unity. Includes a texture utility to convert Blender Roughness map to Unity Metallic map",
   "unity": "2019.1",
