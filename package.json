@@ -1,0 +1,18 @@
+{
+  "name": "projectgamedev.unity.utility",
+  "version": "0.1",
+  "displayName": "Project Game Dev Tools",
+  "description": "General Tools that may help with various workflows in Unity. Includes a texture utility to convert Blender Roughness map to Unity Metallic map",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Blender",
+    "Unity",
+    "Texture"
+  ],
+  "author": {
+    "name": "Jonathan Belaire",
+    "email": "jonathan.belaire@portsideprojects.com",
+    "url": "https://www.portsideprojects.com"
+  }
+}
