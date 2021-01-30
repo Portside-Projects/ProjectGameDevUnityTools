@@ -70,7 +70,7 @@ namespace ProjectGameDev.Unity.Utility
 
             GUILayout.Space(5);
 
-            GUILayout.Label(new GUIContent($"<b>File Name: </b> {path}"), _filePathLabelStyle);
+            GUILayout.Label(new GUIContent($"<b>File Path: </b> {path}"), _filePathLabelStyle);
 
             GUILayout.FlexibleSpace();
 
